@@ -6,6 +6,7 @@ from requests import post
 #SpamSms Derz Grub
 #Tools ini sekarang not free 
 #jika mau silahkan chat ke nomer ini 08812425716
+#tekan ctrl + z untuk keluar
 
 
 
@@ -31,5 +32,4 @@ from requests import post
 
 
 
-def bersih():
-    os.system("clear")
+
