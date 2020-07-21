@@ -33,3 +33,15 @@ from requests import post
 
 
 
+def bersih():
+    os.system("clear")
+
+def balik():
+    d = input("\033[1;97mKeluar? (y/t): ")
+    if d == "y":
+       subprocess.call("python call.py",shell=True)
+    elif d == "t":
+         print ("\033[1;91mExit")
+         os.system("exit")
+
+bersih()
