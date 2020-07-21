@@ -3,10 +3,9 @@ import requests
 import subprocess
 from requests import post
 
-#SpamSms Derz Grub
-#Tools ini sekarang not free 
-#jika mau silahkan chat ke nomer ini 08812425716
-#tekan ctrl + z untuk keluar
+#TOOLS SPAM SMS DERZ GRUB
+#TOOLS INI SEKARANG NOT FREE
+#SILAHKAN CHAT KE NOMER BERIKUT 08812425716
 
 
 
@@ -33,11 +32,13 @@ from requests import post
 
 
 
-def bersih():
-    os.system("clear")
+
+
+
+
 
 def balik():
-    d = input("\033[1;97mKeluar? (y/t): ")
+    d = input("\033[1;97mkeluar apa engga? (y/t): ")
     if d == "y":
        subprocess.call("python call.py",shell=True)
     elif d == "t":
