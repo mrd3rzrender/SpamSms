@@ -33,5 +33,3 @@ from requests import post
 
 def bersih():
     os.system("clear")
-
-def balik():
