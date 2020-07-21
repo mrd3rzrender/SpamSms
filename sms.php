@@ -31,15 +31,28 @@ Tools Ini Not free
 Silahkan chat ke nomer berikut ini 08812425716 
 awokwokwok
 
-
-
-
-
-
-
-
-
-
-
-
 \n";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def clear ()
