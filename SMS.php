@@ -21,15 +21,16 @@
     ▀▄▒▒▒▒▒▒▒▒▒▒▄▄▄▀▒▒▒▒▄▀   
       ▀▄▄▄▄▄▄▀▀▀▒▒▒▒▒▄▄▀     
          ▀▀▀▀▀▀▀▀▀▀▀▀        
+
   ____                          
  | __ )  ___  _ __ ___    ___ _ __ ___  ___ 
  |  _ \ / _ \| '_ ` _ \  / __| '_ ` _ \/ __|
  | |_) | (_) | | | | | | \__ \ | | | | \__ \
  |____/ \___/|_| |_| |_| |___/_| |_| |_|___/
-                  by : Mr Derz Render 
-Mau Spam Siapa hayoo 
-Gunakan dengan bijak ya nyet ! 
-thx to DERZ GRUB.                                                        
+                  by : amir furqon 
+Bom sms tools 
+Gunakan dengan bijak ! 
+thx to SGB Team.                                                        
 \n";
 echo "[?]Nomer tujuan: 0";
 $no = trim(fgets(STDIN));
