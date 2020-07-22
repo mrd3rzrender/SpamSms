@@ -1,2 +1,2 @@
 # SpamSms
-not free yak :)
+Resiko tanggung aja sendiri :)
